@@ -1,4 +1,4 @@
-# House-Price-Prediction-Using-ML
+# House-Price-Prediction-Using-Machine-learning
 
 In this project focused on house price prediction in Maharashtra, you utilize a combination of machine learning models—Decision Trees, Linear Regression, and Lasso Regression—to predict housing prices based on various factors such as area, number of bedrooms, and location. This approach allows you to assess and compare the effectiveness of different algorithms in tackling real-world problems within the real estate market.
 
